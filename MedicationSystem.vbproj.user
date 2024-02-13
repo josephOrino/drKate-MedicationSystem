@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Current.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formulary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Medic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewMedic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prescription.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
